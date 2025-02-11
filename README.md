@@ -2,6 +2,8 @@
 
 Este projeto consiste em uma aplicação web de lista de tarefas interativa e responsiva, construída com HTML, CSS e JavaScript.  Ela oferece uma experiência de usuário agradável e eficiente para gerenciar tarefas, com funcionalidades como adicionar, editar, marcar como concluída, excluir tarefas, além de personalização de tema e persistência de dados no navegador.
 
+[Link para o projeto no GitHub Pages](https://davidsonaguiar.github.io/todo-desafio/).
+
 ## Visão Geral
 
 A aplicação permite aos usuários criar e gerenciar suas tarefas de forma simples e intuitiva. As tarefas são armazenadas localmente no navegador, garantindo que os dados sejam preservados mesmo após o fechamento da página.  O projeto também oferece a opção de alternar entre temas claro e escuro, adaptando-se às preferências visuais do usuário.
